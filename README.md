@@ -32,10 +32,6 @@
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ASILA-RANASINGHE.ASILA-RANASINGHE&"  />
-
-###
-
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
@@ -46,7 +42,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-profile-trophy.vercel.app?username=ASILA-RANASINGHE&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ASILA-RANASINGHE&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
