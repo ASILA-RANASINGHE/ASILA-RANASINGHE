@@ -1,50 +1,27 @@
-<p align="center">HITLER</p>
+<h1 align="center">Hi there, I'm Asila Sandeepa Ranasinghe 👋</h1> <h3 align="center">Computer Science Undergraduate @ NSBM | Aspiring AI & Systems Researcher</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Passionate+about+Algorithms+%26+AI;Exploring+System+Design;Building+Real-World+Solutions;Future+Master's+Student" alt="Typing SVG" /> </p>
+🧑‍💻 About Me
+🎓 Computer Science undergraduate at NSBM Green University
+🔄 Started in Software Engineering, shifted to Computer Science to dive deeper into algorithms, AI, and system design
+🚀 Aiming to pursue a Master's degree to strengthen my expertise and contribute to impactful research and development
+💡 Passionate about solving real-world problems through technology and innovation
+🌍 A curious traveler — I enjoy exploring new perspectives, cultures, and ideas
+📫 Always open to collaborating on projects in AI, software development, and emerging tech
+🛠️ Tech Stack
+<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> </p>
+✏️ Edit this list to match your actual stack — remove anything you don't use and add tools you do (e.g., Docker, AWS, Figma, etc.)
 
-###
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" width="48%" /> </p>
+⚠️ Replace YOUR_GITHUB_USERNAME above with your actual GitHub username for these to render correctly.
 
-<p align="left">💻 I am Asila Sandeepa Ranasinghe a Computer Science undergraduate at NSBM, passionate about solving real-world problems through technology and innovation. My journey began in software engineering, but I shifted to computer science to explore deeper fields like algorithms, AI, and system design.<br><br>🚀 I aim to pursue a master’s degree to further strengthen my expertise and contribute to impactful projects in software development, research, and emerging technologies.<br><br>🌍 Beyond academics, I’m a curious traveler who enjoys exploring new perspectives, cultures, and ideas.</p>
+🌱 Currently Exploring
+Data Structures & Algorithms (advanced problem solving)
+Artificial Intelligence & Machine Learning fundamentals
+System Design principles
+Preparing for graduate school applications
+📫 Connect With Me
+<p align="left"> <a href="mailto:YOUR_EMAIL@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://YOUR_PORTFOLIO_LINK"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> </p>
+✏️ Replace the email, LinkedIn, and portfolio placeholders with your real links.
 
-###
+<p align="center"><i>Thanks for visiting my profile — always excited to connect and build something meaningful together! 🚀</i></p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-</div>
-
-###
-
-<img align="right" height="200" src="https://media1.tenor.com/m/6FyQwNIdnTsAAAAC/madara-uchiha.gif"  />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ASILA-RANASINGHE/ASILA-RANASINGHE/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ASILA-RANASINGHE/ASILA-RANASINGHE/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ASILA-RANASINGHE/ASILA-RANASINGHE/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app?username=ASILA-RANASINGHE&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ASILA-RANASINGHE&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
